@@ -4,7 +4,7 @@
 
 <hr/>
 
-I am working as web developer, currently positioned as Dev II, at [Radix Engenharia e Software](https://www.radixeng.com.br/). I am working there since intership period since 2020 and participate in projects with Braskem and White Martins.
+I am working as web developer, currently positioned as Dev II, at [Radix Engenharia e Software](https://www.radixeng.com.br/). I am working there since intership period that started in 2020 and participate in projects with Braskem and White Martins.
 
 During that time I got some experience with the following technologies and topics:
 
