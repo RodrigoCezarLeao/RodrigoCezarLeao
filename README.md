@@ -1,6 +1,6 @@
-#RodrigoCezarLeao
+# RodrigoCezarLeao
 
-##Hello world, I am Rod
+## Hello world, I am Rod
 
 <hr/>
 
@@ -44,8 +44,8 @@ I own projects in this account and also in [move-app](https://github.com/move-ap
 
 📫 Reach me at:
 <div style="display: flex; align-items: center">
-<a href="https://www.linkedin.com/in/rodrigocezarleao/"><img src="https://img.freepik.com/vetores-premium/icone-do-instagram-de-logotipo-de-distintivo-moderno_578229-124.jpg" style="width:50px; height: 50px" /></a>
-<a href="https://www.linkedin.com/in/rodrigocezarleao/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:35px; height: 35px" /></a>
+<a href="https://www.linkedin.com/in/rodrigocezarleao/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:50px; height: 50px; margin-right: 5px" /></a>
+<a href="https://www.instagram.com/rodrigocezarleao/"><img src="https://brunopalmahidroponia.com.br/wp-content/uploads/2020/07/logo-instagram-png-fundo-transparente.png" style="width:50px; height: 50px" /></a>
 </div>
 
 
