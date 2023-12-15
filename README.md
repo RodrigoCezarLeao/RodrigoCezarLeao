@@ -39,6 +39,12 @@ Nos meus estudos pessoais e hobbies, tive também contato e experiência com as 
 - ReactNative
 - Flask
 
+<br/>
+<br/>
+
+- Alguns projetos pessoais desenvolvidos:
+  - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Relógio de Xadrez com Penalidade</a>
+
 Possuo projetos nessa conta e também na conta [move-app](https://github.com/move-app).
 
 📫 Me encontre em:
@@ -97,6 +103,12 @@ In my personal studies and hobbies I also got some experience with the following
 - GraphQL
 - ReactNative
 - Flask
+
+<br/>
+<br/>
+
+- Some personal projects developed
+  - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Chess Clock with Penalty</a>
 
 
 I own projects in this account and also in [move-app](https://github.com/move-app).
