@@ -44,6 +44,7 @@ Nos meus estudos pessoais e hobbies, tive também contato e experiência com as 
 
 - Alguns projetos pessoais desenvolvidos:
   - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Relógio de Xadrez com Penalidade</a>
+  - <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Operador de Caixa</a>
 
 Possuo projetos nessa conta e também na conta [move-app](https://github.com/move-app).
 
@@ -109,6 +110,7 @@ In my personal studies and hobbies I also got some experience with the following
 
 - Some personal projects developed
   - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Chess Clock with Penalty</a>
+  - <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Cashier Operator</a>
 
 
 I own projects in this account and also in [move-app](https://github.com/move-app).
