@@ -43,8 +43,8 @@ Nos meus estudos pessoais e hobbies, tive também contato e experiência com as 
 <br/>
 
 - Alguns projetos pessoais desenvolvidos:
-  - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Relógio de Xadrez com Penalidade</a>
-  - <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Operador de Caixa</a>
+  - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Relógio de Xadrez com Penalidade (Vanilla JS)</a>
+  - <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Operador de Caixa (Angular)</a>
 
 Possuo projetos nessa conta e também na conta [move-app](https://github.com/move-app).
 
@@ -109,8 +109,8 @@ In my personal studies and hobbies I also got some experience with the following
 <br/>
 
 - Some personal projects developed
-  - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Chess Clock with Penalty</a>
-  - <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Cashier Operator</a>
+  - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Chess Clock with Penalty (Vanilla JS)</a>
+  - <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Cashier Operator (Angular)</a>
 
 
 I own projects in this account and also in [move-app](https://github.com/move-app).
