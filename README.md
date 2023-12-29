@@ -1,10 +1,6 @@
 # RodrigoCezarLeao (pt-br)
 
-## Olá mundo, eu sou Rod
-
-<hr/>
-
-Eu trabalho como desenvolvedor web, atualmente no cargo de Dev II, na [Radix Engenharia e Software](https://www.radixeng.com.br/). Trabalho na empresa desde que entrei como estagiário em 2020 e participei de projetos com a Braskem e White Martins.
+Eu trabalho como desenvolvedor web, atualmente no cargo de Dev II, na [Radix Engenharia e Software](https://www.radixeng.com.br/). Trabalho na empresa desde que entrei como estagiário em 2020 e participei de projetos com a Braskem e White Martins. Sou formado em ciência da computação pela UERJ.
 
 Durante esse tempo eu tive contato e experiência com as seguintes tecnologias e tópicos:
 
@@ -66,11 +62,7 @@ Possuo projetos nessa conta e também na conta [move-app](https://github.com/mov
 
 # RodrigoCezarLeao (en-us)
 
-## Hello world, I am Rod
-
-<hr/>
-
-I am working as web developer, currently positioned as Dev II, at [Radix Engenharia e Software](https://www.radixeng.com.br/). I am working there since intership period that started in 2020 and was engaged in projects with Braskem and White Martins.
+I am working as web developer, currently positioned as Dev II, at [Radix Engenharia e Software](https://www.radixeng.com.br/). I am working there since intership period that started in 2020 and was engaged in projects with Braskem and White Martins. I am computer science bachalor graduated in Rio de Janeiro State University (UERJ).
 
 During that time I got some experience with the following technologies and topics:
 
