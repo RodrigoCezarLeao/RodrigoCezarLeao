@@ -60,6 +60,7 @@ Possuo projetos nessa conta e também na conta [move-app](https://github.com/mov
 <br/>
 
 
+
 # RodrigoCezarLeao (en-us)
 
 I work as web developer at [Radix Engenharia e Software](https://www.radixeng.com.br/) since intership period that started in 2020 and have been engaged in projects with Braskem and White Martins. I am computer science bachalor graduated at Rio de Janeiro State University (UERJ).
