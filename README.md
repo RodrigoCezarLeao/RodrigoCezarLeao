@@ -42,6 +42,7 @@ Nos meus estudos pessoais e hobbies, tive também contato e experiência com as 
   - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Relógio de Xadrez com Penalidade (Vanilla JS)</a>
   - <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Operador de Caixa (Angular)</a>
   - <a href="https://www.mysmallgroup.com.br/" target="_blank">MySmallGroup (Angular + Flask)</a>
+      - Usuário de testes (senha: 'test')
 
 Possuo projetos nessa conta e também na conta [move-app](https://github.com/move-app).
 
@@ -106,6 +107,7 @@ In my personal studies and hobbies I also got some experience with the following
   - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Chess Clock with Penalty (Vanilla JS)</a>
   - <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Cashier Operator (Angular)</a>
   - <a href="https://www.mysmallgroup.com.br/" target="_blank">MySmallGroup (Angular + Flask)</a>
+      - Test profile (password: 'test')
 
 
 I own projects in this account and also in [move-app](https://github.com/move-app).
