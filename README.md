@@ -5,12 +5,13 @@ Trabalho como desenvolvedor web na [Radix Engenharia e Software](https://www.rad
 Durante esse tempo eu tive contato e experiência com as seguintes tecnologias e tópicos:
 
 - Front-End
-    - ReactJs
+    - JavaScript
     - Angular
     - TypeScript
-    - JavaScript
     - HTML
     - CSS
+    - ReactJs
+    - Bootstrap
     - WPF C# Desktop    
 
 - Back-End
