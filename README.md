@@ -71,13 +71,14 @@ I work as web developer at [Radix Engenharia e Software](https://www.radixeng.co
 During that time I got some experience with the following technologies and topics:
 
 - Front-End
-    - ReactJs
+    - JavaScript
     - Angular
     - TypeScript
-    - JavaScript
     - HTML
     - CSS
-    - WPF C# Desktop    
+    - ReactJs
+    - Bootstrap
+    - WPF C# Desktop     
 
 - Back-End
     - C#
