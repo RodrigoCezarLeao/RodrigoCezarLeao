@@ -25,6 +25,7 @@ Durante esse tempo eu tive contato e experiência com as seguintes tecnologias e
     - Data Lake Storage
     - Service Bus Messages
     - Docker
+    - FastAPI
 
 - Database
     - PostgreSQL
@@ -91,6 +92,7 @@ During that time I got some experience with the following technologies and topic
     - Data Lake Storage
     - Service Bus Messages
     - Docker
+    - FastAPI
 
 - Database
     - PostgreSQL
