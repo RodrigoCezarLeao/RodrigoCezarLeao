@@ -1,19 +1,17 @@
 # RodrigoCezarLeao (pt-br)
 
-Trabalho como desenvolvedor web na [Radix Engenharia e Software](https://www.radixeng.com.br/) desde que entrei como estagiário em 2020, participando de projetos com a Braskem e White Martins. Sou formado em ciência da computação pela UERJ.
+Trabalho como desenvolvedor web na [Radix Engenharia e Software](https://www.radixeng.com.br/) desde que entrei como estagiário em 2020, participando de projetos com a Braskem, White Martins e Celanese. Sou formado em ciência da computação pela UERJ e pós graduado em arquitetura de sistemas dotnet com azure pela FIAP/Alura.
 
 Durante esse tempo eu tive contato e experiência com as seguintes tecnologias e tópicos:
 
 - Front-End
     - JavaScript
+    - ReactJs
     - Angular
     - TypeScript
     - HTML
     - CSS
-    - ReactJs
-    - Bootstrap
-    - WPF C# Desktop    
-
+    - GraphQL
 - Back-End
     - C#
     - Asp Net WebApi
@@ -23,17 +21,19 @@ Durante esse tempo eu tive contato e experiência com as seguintes tecnologias e
     - Azure Functions
     - Logic Apps
     - Data Lake Storage
-    - Service Bus Messages
-    - Docker
+    - Service Bus/Rabbit Mq Messages
+    - Docker/Kubernetes
     - FastAPI
+    - CI/CD Pipelines
+    - IIS on premise
 
 - Database
     - PostgreSQL
     - SQLServer
     - SQLite
+    - Cognite
 
 Nos meus estudos pessoais e hobbies, tive também contato e experiência com as seguintes tecnologias e tópicos:
-- GraphQL
 - ReactNative
 - Flask
 
@@ -67,20 +67,20 @@ Possuo projetos nessa conta e também na conta [move-app](https://github.com/mov
 
 # RodrigoCezarLeao (en-us)
 
-I work as web developer at [Radix Engenharia e Software](https://www.radixeng.com.br/) since intership period that started in 2020 and have been engaged in projects with Braskem and White Martins. I am computer science bachalor graduated at Rio de Janeiro State University (UERJ).
+Trabalho como desenvolvedor web na [Radix Engenharia e Software](https://www.radixeng.com.br/) desde que entrei como estagiário em 2020, participando de projetos com a Braskem, White Martins e Celanese. Sou formado em ciência da computação pela UERJ e pós graduado em arquitetura de sistemas dotnet com azure pela FIAP/Alura.
+
+I work as web developer at [Radix Engenharia e Software](https://www.radixeng.com.br/) since intership period that started in 2020 and have been engaged in projects with Braskem, White Martins and Celanese. I am computer science bachalor graduated at Rio de Janeiro State University (UERJ) and postgraduated in software architecture with dotnet and azure at FIAP/Alura.
 
 During that time I got some experience with the following technologies and topics:
 
 - Front-End
     - JavaScript
+    - ReactJs
     - Angular
     - TypeScript
     - HTML
     - CSS
-    - ReactJs
-    - Bootstrap
-    - WPF C# Desktop     
-
+    - GraphQL
 - Back-End
     - C#
     - Asp Net WebApi
@@ -90,17 +90,19 @@ During that time I got some experience with the following technologies and topic
     - Azure Functions
     - Logic Apps
     - Data Lake Storage
-    - Service Bus Messages
-    - Docker
+    - Service Bus/Rabbit Mq Messages
+    - Docker/Kubernetes
     - FastAPI
+    - CI/CD Pipelines
+    - IIS on premise
 
 - Database
     - PostgreSQL
     - SQLServer
     - SQLite
+    - Cognite
 
 In my personal studies and hobbies I also got some experience with the following technologies and topics:
-- GraphQL
 - ReactNative
 - Flask
 
