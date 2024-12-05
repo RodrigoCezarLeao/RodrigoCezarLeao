@@ -67,9 +67,7 @@ Possuo projetos nessa conta e também na conta [move-app](https://github.com/mov
 
 # RodrigoCezarLeao (en-us)
 
-Trabalho como desenvolvedor web na [Radix Engenharia e Software](https://www.radixeng.com.br/) desde que entrei como estagiário em 2020, participando de projetos com a Braskem, White Martins e Celanese. Sou formado em ciência da computação pela UERJ e pós graduado em arquitetura de sistemas dotnet com azure pela FIAP/Alura.
-
-I work as web developer at [Radix Engenharia e Software](https://www.radixeng.com.br/) since intership period that started in 2020 and have been engaged in projects with Braskem, White Martins and Celanese. I am computer science bachalor graduated at Rio de Janeiro State University (UERJ) and postgraduated in software architecture with dotnet and azure at FIAP/Alura.
+I work as web developer at [Radix Engineering and Software](https://www.radixeng.com.br/) since intership period that started in 2020 and have been engaged in projects with Braskem, White Martins and Celanese. I am computer science bachalor graduated at Rio de Janeiro State University (UERJ) and postgraduated in software architecture with dotnet and azure at FIAP/Alura.
 
 During that time I got some experience with the following technologies and topics:
 
