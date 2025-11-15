@@ -32,8 +32,10 @@ During that time I got some experience with the following technologies and topic
 - Database
     - PostgreSQL
     - SQLServer
+    - Redis (Caching)
     - SQLite
     - Cognite
+      
 
 In my personal studies and hobbies I also got some experience with the following technologies and topics:
 - ReactNative
@@ -104,6 +106,7 @@ Ao longo desse período, adquiri experiência com as seguintes tecnologias e tó
 - Bancos de Dados
   - PostgreSQL
   - SQL Server
+  - Redis (Caching)
   - SQLite
   - Cognite
 
