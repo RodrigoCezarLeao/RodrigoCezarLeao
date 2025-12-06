@@ -1,57 +1,47 @@
+# Rodrigo Cezar Leão (en-US)
 
-# RodrigoCezarLeao (en-us)
+**Software Engineer at [PetVisor](https://petvisor.com/),** developing and maintaining internal systems. I have been working professionally as a software engineer since 2020. I hold a **Bachelor’s in Computer Science** from Rio de Janeiro State University (UERJ) and a **Postgraduate in Software Architecture (.NET & Azure)** from FIAP/Alura (2025).
 
-Software engineer at [PetVisor](https://petvisor.com/), working on the development, maintenance, and improvement of internal systems. I have been working as a software engineer since 2020. I began my Bachelor’s in Computer Science in 2015 at Rio de Janeiro State University (UERJ) and completed a postgraduate program in Software Architecture with .NET and Azure at FIAP/Alura in 2025.
+Experiente em desenvolvimento full-stack, entregando soluções de ponta a ponta.
 
-During that time I got some experience with the following technologies and topics:
+---
 
-- Front-End
-    - JavaScript
-    - ReactJs
-    - TypeScript
-    - HTML
-    - CSS
-    - Angular
-    - JQuery
-    - GraphQL
-- Back-End
-    - C#
-    - Asp Net WebApi
-    - Asp Net MVC
-    - Dapper Framework
-    - Entity Framework
-    - Azure Functions
-    - Logic Apps
-    - Data Lake Storage
-    - Service Bus/Rabbit Mq Messages
-    - Docker/Kubernetes
-    - FastAPI
-    - CI/CD Pipelines
-    - IIS on premise
+### **Technical Skills**
 
-- Database
-    - PostgreSQL
-    - SQLServer
-    - Redis (Caching)
-    - SQLite
-    - Cognite
-      
+**Front-End:**  
+- JavaScript / TypeScript  
+- ReactJS (Zustand, React Query, Design Systems)  
+- Angular, jQuery  
+- HTML / CSS (Vanilla, Tailwind)  
+- GraphQL  
 
-In my personal studies and hobbies I also got some experience with the following technologies and topics:
-- ReactNative
-- Flask
+**Back-End & APIs:**  
+- C# / .NET (ASP.NET MVC & Core WebAPI – Controllers, Minimal API, 3-Layered Architecture)  
+- Real-time communication: SignalR / WebSockets, Twilio (SMS), Primevox (voice calls)  
+- Feature Toggle: CloudBees  
+- FastAPI (Use Case Driven)  
+- Dapper / Entity Framework  
+- Azure (Functions, Logic Apps, Data Lake Storage, Service Bus)  
+- RabbitMQ, Docker / Kubernetes  
+- CI/CD pipelines, IIS on-premises  
 
-<br/>
-<br/>
+**Databases & Caching:**  
+- PostgreSQL, SQL Server, SQLite  
+- Redis  
+- Cognite  
 
-- Some personal projects developed
-  - <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Chess Clock with Penalty (Vanilla JS)</a>
-  - <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Cashier Operator (Angular)</a>
-  - <a href="https://www.mysmallgroup.com.br/" target="_blank">MySmallGroup (Angular + Flask)</a>
-      - Test profile (password: 'test')
+---
 
+### **Selected Projects**  
 
-I own projects in this account and also in [move-app](https://github.com/move-app).
+- [Chess Clock with Penalty](https://rodrigocezarleao.github.io/chess-clock-penalty/) – Vanilla JS  
+- [Cashier Operator](https://rodrigocezarleao.github.io/cashier/) – Angular  
+- [MySmallGroup](https://www.mysmallgroup.com.br/) – Angular + Flask (Test profile: password ‘test’)  
+- [Unit Measure Converter](https://thedevlion.github.io/unit-measure-conversion/#/) – JavaScript  
+- [Technical Data Calculator](https://thedevlion.github.io/unit-measure-conversion/#/technical-datasheet) – JavaScript  
+
+**Additional repositories:** [move-app GitHub](https://github.com/move-app)  
+- [Youth Sports Blog](https://move-app.github.io/moveSportsBlog/) – Angular
 
 
 📫 Reach me at:
@@ -71,59 +61,51 @@ I own projects in this account and also in [move-app](https://github.com/move-ap
 <br/>
 <br/>
 
+# Rodrigo Cezar Leão (pt-BR)
 
-# RodrigoCezarLeao (pt-br)
+**Engenheiro de Software na [PetVisor](https://petvisor.com/),** atuando no desenvolvimento e manutenção de sistemas internos. Trabalho profissionalmente como engenheiro de software desde 2020. Sou formado em **Ciência da Computação** pela Universidade do Estado do Rio de Janeiro (UERJ) e concluí um **pós-graduação em Arquitetura de Software (.NET & Azure)** na FIAP/Alura (2025).
 
-Engenheiro de software na [PetVisor](https://petvisor.com/), atuando no desenvolvimento, manutenção e melhoria de sistemas internos. Trabalho como engenheiro de software desde 2020. Iniciei minha graduação em Ciência da Computação em 2015 pela Universidade do Estado do Rio de Janeiro (UERJ) e concluí uma pós-graduação em Arquitetura de Software com .NET e Azure pela FIAP/Alura em 2025.
+Especializo-me em **desenvolvimento full-stack, aplicações em tempo real e soluções em nuvem**.
 
-Ao longo desse período, adquiri experiência com as seguintes tecnologias e tópicos:
+---
 
-- Front-End
-  - JavaScript
-  - ReactJS
-  - TypeScript
-  - HTML
-  - CSS
-  - Angular
-  - jQuery
-  - GraphQL
+### **Habilidades Técnicas**
 
-- Back-End
-  - C#
-  - ASP.NET Web API
-  - ASP.NET MVC
-  - Dapper
-  - Entity Framework
-  - Azure Functions
-  - Logic Apps
-  - Data Lake Storage
-  - Service Bus / RabbitMQ
-  - Docker / Kubernetes
-  - FastAPI
-  - Pipelines de CI/CD
-  - IIS (on-premises)
+**Front-End:**  
+- JavaScript / TypeScript  
+- ReactJS (Zustand, React Query, Design Systems)  
+- Angular, jQuery  
+- HTML / CSS (Vanilla, Tailwind)  
+- GraphQL  
 
-- Bancos de Dados
-  - PostgreSQL
-  - SQL Server
-  - Redis (Caching)
-  - SQLite
-  - Cognite
+**Back-End & APIs:**  
+- C# / .NET (ASP.NET MVC & Core WebAPI – Controllers, Minimal API, Arquitetura em 3 camadas)  
+- Comunicação em tempo real: SignalR / WebSockets, Twilio (SMS), Primevox (chamadas de voz)  
+- Feature Toggle: CloudBees  
+- FastAPI (Use Case Driven)  
+- Dapper / Entity Framework  
+- Azure (Functions, Logic Apps, Data Lake Storage, Service Bus)  
+- RabbitMQ, Docker / Kubernetes  
+- Pipelines CI/CD, IIS on-premises  
 
-Nos meus estudos pessoais e hobbies, também tive contato com:
-- React Native
-- Flask
+**Bancos de Dados & Caching:**  
+- PostgreSQL, SQL Server, SQLite  
+- Redis  
+- Cognite  
 
-<br/>
-<br/>
+---
 
-### Alguns projetos pessoais desenvolvidos
-- <a href="https://rodrigocezarleao.github.io/chess-clock-penalty/" target="_blank">Chess Clock with Penalty (Vanilla JS)</a>
-- <a href="https://rodrigocezarleao.github.io/cashier/" target="_blank">Cashier Operator (Angular)</a>
-- <a href="https://www.mysmallgroup.com.br/" target="_blank">MySmallGroup (Angular + Flask)</a>  
-  - Usuário de teste (senha: "test")
+### **Projetos Selecionados**  
 
-Tenho projetos neste perfil e também na organização [move-app](https://github.com/move-app).
+- [Chess Clock with Penalty](https://rodrigocezarleao.github.io/chess-clock-penalty/) – Vanilla JS  
+- [Cashier Operator](https://rodrigocezarleao.github.io/cashier/) – Angular  
+- [MySmallGroup](https://www.mysmallgroup.com.br/) – Angular + Flask (Perfil de teste: senha ‘test’)  
+- [Unit Measure Converter](https://thedevlion.github.io/unit-measure-conversion/#/) – JavaScript  
+- [Technical Data Calculator](https://thedevlion.github.io/unit-measure-conversion/#/technical-datasheet) – JavaScript  
+
+**Repositórios adicionais:** [move-app GitHub](https://github.com/move-app)  
+- [Youth Sports Blog](https://move-app.github.io/moveSportsBlog/) – Angular
+
 
 📫 Entre em contato:
 <div style="display: flex; align-items: center">
