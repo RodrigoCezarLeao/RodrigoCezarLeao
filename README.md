@@ -81,17 +81,13 @@ Each project highlights different aspects of frontend, backend, and full-stack d
 - 💼 [LinkedIn](https://www.linkedin.com/in/rodrigocezarleao/)
 - 📸 [Instagram](https://www.instagram.com/rodrigocezarleao/)
 
+
+
+<br/>
+<br/>
+<br/>
+<br/>
 ---
-
-
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
