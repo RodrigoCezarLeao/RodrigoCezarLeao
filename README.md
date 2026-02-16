@@ -1,4 +1,4 @@
-# Rodrigo Cezar Leão
+# Rodrigo Cezar Leao (EN-US)
 
 💻 **Software Engineer at PetDesk**  
 Building scalable internal platforms, real-time communication systems, and full-stack web applications.
@@ -87,14 +87,13 @@ Each project highlights different aspects of frontend, backend, and full-stack d
 <br/>
 <br/>
 <br/>
----
 <br/>
 <br/>
 <br/>
 <br/>
 
 
-# Rodrigo Cezar Leão
+# Rodrigo Cezar Leão (PT-BR)
 
 💻 **Software Engineer na PetDesk**  
 Desenvolvendo plataformas internas escaláveis, sistemas de comunicação em tempo real e aplicações web full-stack.
