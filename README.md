@@ -71,7 +71,8 @@ Beyond technical execution, I value clear communication, organized workflows, an
 
 A curated selection of my projects is available in my portfolio:
 
-🔗 **Portfolio:** https://thedevlion.github.io/portfolio/  
+🔗 **Portfolio:** [https://thedevlion.github.io/portfolio/  ](https://thedevlion.tech/)
+
 💻 **GitHub Organization:** https://github.com/TheDevLion  
 
 Each project highlights different aspects of frontend, backend, and full-stack development.
@@ -166,7 +167,8 @@ Além da execução técnica, valorizo comunicação clara, organização do tra
 
 Uma seleção dos meus projetos está disponível no meu portfólio:
 
-🔗 **Portfólio:** https://thedevlion.github.io/portfolio/  
+🔗 **Portfólio:** [https://thedevlion.github.io/portfolio/  ](https://thedevlion.tech/)
+
 💻 **Organização no GitHub:** https://github.com/TheDevLion  
 
 Cada projeto destaca diferentes aspectos de desenvolvimento frontend, backend e full-stack.
